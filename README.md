@@ -7,7 +7,7 @@ Conjunto de dados com informações de clientes de uma plataforma de streaming.
 
 **Arquivo:** .excel
 
-**Objetivo: **
+**Objetivo:**
 Através da metodologia CRISP-DM, realizar uma análise exploratória em um dataset com características de usuários churn e não churn. Testar e avaliar algoritmos para prever possíveis ocorrências de churn, levando em consideração características distribuídas no dataset explorado.
 - Churn é uma métrica que indica a quantidade de clientes que cancelaram um produto ou serviço em um determinado período de tempo.
 
