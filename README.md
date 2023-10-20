@@ -2,30 +2,30 @@
 
 #Descrição Projeto
 
-**Conjunto de dados: **
+**Conjunto de dados:**
 Conjunto de dados com informações de clientes de uma plataforma de streaming.
 
-**Arquivo: ** .excel
+**Arquivo:** .excel
 
 **Objetivo: **
 Através da metodologia CRISP-DM, realizar uma análise exploratória em um dataset com características de usuários churn e não churn. Testar e avaliar algoritmos para prever possíveis ocorrências de churn, levando em consideração características distribuídas no dataset explorado.
 - Churn é uma métrica que indica a quantidade de clientes que cancelaram um produto ou serviço em um determinado período de tempo.
 
-**IDE: ** Colab
+**IDE:** Colab
 
-**Linguagem: ** Python
+**Linguagem:** Python
 
-**Principais bibliotecas utilizadas: **
+**Principais bibliotecas utilizadas:**
 •	Pandas, para manipulação e tratamento dos dados;
 •	Seaborn, para criação e visualização de gráficos;
 •	Matplotlib, para criação e visualização de gráficos;
 •	Scikit-learn, aprendizado de máquina;
 
-**Algoritmos utilizados: **
+**Algoritmos utilizados:**
 •	Regressão Logística;
 •	Random Forest.
 
-**CRISP-DM: ** 
+**CRISP-DM:** 
 - Importação bibliotecas;
 - Importação dataset.
 
@@ -81,6 +81,6 @@ Para testar melhor performance, aplicou-se o algoritmo Random Forest com seus pa
 Foi possível aplicar os algoritmos na base de dados, conseguiu-se mensurar suas performances.
 Avaliado o desempenho dos modelos para verificar se foram atendidas todas as necessidades que foram definidas inicialmente, mensurando suas performances
 
-**Resultado: **
+**Resultado:**
 O resultado final comparado teve melhor performance: algoritmo de classificação Random Forest.
 
