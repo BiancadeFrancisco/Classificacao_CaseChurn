@@ -26,11 +26,9 @@ Através da metodologia CRISP-DM, realizar uma análise exploratória em um data
 •	Random Forest.
 
 **CRISP-DM: ** 
-
 - Importação bibliotecas;
+- Importação dataset.
 
-- Importação dataset;
-  
 1° Entendimento Negócio;
 
 2° Entendimento dos Dados;
@@ -46,7 +44,7 @@ Churn — Cliente deu churn ou não
 
 Tenure — Número de meses que o cliente está na base;
 MonthlyCharges — A quantia consumida por cliente mensalmente;
-TotalCharges — A quantia consumida por cliente total.
+TotalCharges — A quantia consumida por cliente total;
 
 *Variáveis categóricas:*
 
@@ -84,4 +82,5 @@ Foi possível aplicar os algoritmos na base de dados, conseguiu-se mensurar suas
 Avaliado o desempenho dos modelos para verificar se foram atendidas todas as necessidades que foram definidas inicialmente, mensurando suas performances
 
 **Resultado: **
-O resultado final comparado, teve melhor performance: algoritmo de classificação Random Forest.
+O resultado final comparado teve melhor performance: algoritmo de classificação Random Forest.
+
