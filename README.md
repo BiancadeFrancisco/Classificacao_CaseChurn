@@ -1,6 +1,6 @@
 # Classificacao_CaseChurn
 
-#Descrição Projeto
+## Descrição Projeto
 
 **Conjunto de dados:**
 Conjunto de dados com informações de clientes de uma plataforma de streaming.
